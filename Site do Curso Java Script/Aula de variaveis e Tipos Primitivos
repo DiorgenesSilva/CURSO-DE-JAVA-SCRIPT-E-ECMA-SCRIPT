@@ -1,9 +1,7 @@
 ('Variaveis e Tipos Primitivos')
-
-Comentarios utilizar // /* */   
 #Conceito de Vriaveis 
 ('Imagina que voce tem um terreno e neste terreno')
-('E neste terreno voce monta um estacionamento e fizessse macações no chão para Automoveis,Caminhoes e motocicletas')
+('E neste terreno voce monta um estacionamento e fizessse macações no chão para Automoveis,Caminhoes e motocicletas,com vagas para guardar estes carros com delimitadores ')
 vaga a1=carro1 a1=carro2   vaga c1   vaga m1
 vaga a2                    vaga c2   vaga m2  
 vaga a3=null               vaga c3   vaga m3
@@ -26,6 +24,8 @@ Nao Podem começar com numeros
 Não podem conter espaços 
 Não podem ser palavras reservadas
 ('Segue estes conceitos para criar uma variavel')
+
+
 
 
 
