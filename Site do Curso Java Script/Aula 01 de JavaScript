@@ -1,0 +1,30 @@
+//Variaveis e Tipos Primitivos 
+//Comentarios utilizar   
+#Conceito de Vriaveis 
+('Imagina que voce tem um terreno e neste terreno')
+('E neste terreno voce monta um estacionamento e fizessse macações no chão para Automoveis,Caminhoes e motocicletas')
+
+
+vaga a1=carro1 a1=carro2   vaga c1   vaga m1
+vaga a2                    vaga c2   vaga m2  
+vaga a3=null               vaga c3   vaga m3
+vaga a4                    vaga c4   vaga m4
+vaga a5                    vaga c5   vaga m5 
+vaga a6                    vaga c6   vaga m6
+
+ var n1=5
+ var n2=8.5
+ var n3=15
+ var s1='Java Script'
+ var s2='Curso de Java'
+ var s3='Dio Black'
+
+ ('Identificadores de variaveis no Java Script') 
+Podem começar com letra,ou $ 
+Nao Podem começar com numeros
+É possivel usar letrsou numeros
+É possivel usar acntos ou simbolos
+Não podem conter espaços 
+Não podem ser palavras reservadas
+
+
