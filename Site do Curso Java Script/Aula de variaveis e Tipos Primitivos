@@ -1,5 +1,6 @@
-//Variaveis e Tipos Primitivos 
-//Comentarios utilizar   
+('Variaveis e Tipos Primitivos')
+ 
+Comentarios utilizar // /* */   
 #Conceito de Vriaveis 
 ('Imagina que voce tem um terreno e neste terreno')
 ('E neste terreno voce monta um estacionamento e fizessse macações no chão para Automoveis,Caminhoes e motocicletas')
@@ -19,7 +20,7 @@ vaga a6                    vaga c6   vaga m6
  var s2='Curso de Java'
  var s3='Dio Black'
 
- ('Identificadores de variaveis no Java Script') 
+('Identificadores de variaveis no Java Script') 
 Podem começar com letra,ou $ 
 Nao Podem começar com numeros
 É possivel usar letrsou numeros
@@ -27,5 +28,6 @@ Nao Podem começar com numeros
 Não podem conter espaços 
 Não podem ser palavras reservadas
 ('Segue estes conceitos para criar uma variavel')
+
 
 
