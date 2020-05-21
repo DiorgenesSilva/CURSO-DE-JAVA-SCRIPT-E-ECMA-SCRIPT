@@ -1,11 +1,9 @@
 ('Variaveis e Tipos Primitivos')
- 
+
 Comentarios utilizar // /* */   
 #Conceito de Vriaveis 
 ('Imagina que voce tem um terreno e neste terreno')
 ('E neste terreno voce monta um estacionamento e fizessse macações no chão para Automoveis,Caminhoes e motocicletas')
-
-
 vaga a1=carro1 a1=carro2   vaga c1   vaga m1
 vaga a2                    vaga c2   vaga m2  
 vaga a3=null               vaga c3   vaga m3
