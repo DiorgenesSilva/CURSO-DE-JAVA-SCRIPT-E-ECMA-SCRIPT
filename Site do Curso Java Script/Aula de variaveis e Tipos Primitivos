@@ -28,6 +28,7 @@ Nao Podem começar com numeros
 É possivel usar acntos ou simbolos
 Não podem conter espaços 
 Não podem ser palavras reservadas
+Miusculas e Minusculas fazem diferença
 ('Segue estes conceitos para criar uma variavel')
 
 #Exemplo de criar e utilizar uma variavel
