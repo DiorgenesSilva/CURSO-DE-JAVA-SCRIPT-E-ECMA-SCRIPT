@@ -37,5 +37,13 @@ var n1=25
 var n2=25
 n1+n2
 
-
-
+#Tipos Primitivos Principais do Java Script 
+Tipo Primitivo Number numeros inteiros e reais sao da classe number
+-15.098,-30,00,4,56.8,100
+Tipo Primitivo string str mensagens e textos sao str e podem ser representados por aspas simples ou duplas
+'NodeJS'
+"Java Script"
+`Maria`
+"312.908.346,23"
+Tipos Primitivos Bolenos 
+True e false 
