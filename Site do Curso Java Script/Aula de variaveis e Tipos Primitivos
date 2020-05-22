@@ -47,3 +47,13 @@ Tipo Primitivo string str mensagens e textos sao str e podem ser representados p
 "312.908.346,23"
 Tipos Primitivos Bolenos 
 True e false 
+O number tem dois valores internos muito importante
+Infinity e NaN
+Tipo Primitivo null
+Tipo Primitivo Undefined
+Tipo Primitivo Object 
+Tipo Primitivo Array 
+Tipo Primitivo Function 
+
+('Para descobrir a classe ou tipo da variavel typeof ')
+
