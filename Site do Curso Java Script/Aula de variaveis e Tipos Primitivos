@@ -1,14 +1,18 @@
 ('Variaveis e Tipos Primitivos')
-#Conceito de Vriaveis 
-('Imagina que voce tem um terreno e neste terreno')
-('E neste terreno voce monta um estacionamento e fizessse macações no chão para Automoveis,Caminhoes e motocicletas,com vagas para guardar estes carros com delimitadores ')
-vaga a1=carro1 a1=carro2   vaga c1   vaga m1
+#Conceito de Variaveis 
+('Imagina que voce tem um terreno ,e neste terreno voce monta um estacionamento e fizer macações no chão para Automoveis,Caminhoes e motocicletas,com vagas para guardar estes carros com delimitadores ,(vaga a1 automoveis, vaga c1 caminhoes, vaga m1 motos ')
+#Exemplo 
+vaga a1=carro1             vaga c1   vaga m1
 vaga a2                    vaga c2   vaga m2  
-vaga a3=null               vaga c3   vaga m3
+vaga a3=carro3=carro4      vaga c3   vaga m3
 vaga a4                    vaga c4   vaga m4
-vaga a5                    vaga c5   vaga m5 
+vaga a5=null               vaga c5   vaga m5 
 vaga a6                    vaga c6   vaga m6
+('No exemplo acima a vaga a1=carro1 recebeu o carro 1')
+('Na vaga a3=carro3 ela nao pode receber dois carro na mesma vaga quando o carro4 chegar o carro 03 sera removido')
+(E na vaga 05=null ou seja null representanulo o vazio')
 
+('Criando variaveis no java Script numeros e str')
  var n1=5
  var n2=8.5
  var n3=15
@@ -16,6 +20,7 @@ vaga a6                    vaga c6   vaga m6
  var s2='Curso de Java'
  var s3='Dio Black'
 
+('O nome de toda variavel chama identificador')
 ('Identificadores de variaveis no Java Script') 
 Podem começar com letra,ou $ 
 Nao Podem começar com numeros
@@ -25,7 +30,10 @@ Não podem conter espaços
 Não podem ser palavras reservadas
 ('Segue estes conceitos para criar uma variavel')
 
-
+#Exemplo de criar e utilizar uma variavel
+var n1=25
+var n2=25
+n1+n2
 
 
 
