@@ -1,6 +1,6 @@
-('Variaveis e Tipos Primitivos')
+('VARIAVEIS E TIPOS DE DADOS')
 #Conceito de Variaveis 
-('Imagina que voce tem um terreno ,e neste terreno voce monta um estacionamento e fizer macações no chão para Automoveis,Caminhoes e motocicletas,com vagas para guardar estes carros com delimitadores ,(vaga a1 automoveis, vaga c1 caminhoes, vaga m1 motos ')
+('Imagina que voce tem um terreno ,e neste terreno voce monta um estacionamento e fizer macações no chão para Automoveis,Caminhoes e motocicletas,com vagas para guardar estes carros com DELIMITADORES ,(vaga a1 automoveis, vaga c1 caminhoes, vaga m1 motos ').
 #Exemplo 
 vaga a1=carro1             vaga c1   vaga m1
 vaga a2                    vaga c2   vaga m2  
