@@ -1,13 +1,14 @@
 ('VARIAVEIS E TIPOS DE DADOS')
 #Conceito de Variaveis 
-('Imagina que voce tem um terreno ,e neste terreno voce monta um estacionamento e fizer macações no chão para Automoveis,Caminhoes e motocicletas,com vagas para guardar estes carros com DELIMITADORES ,(vaga a1 automoveis, vaga c1 caminhoes, vaga m1 motos ').
+('Imagina que voce tem um terreno ,e neste terreno voce monta um estacionamento para receber veicúlos ,mas você nao pode colocar esses veicuços de qualquer forma.
+Mas você pode fazer macações no chão para Automoveis,Caminhoes e motocicletas,com vagas para guardar estes carros com DELIMITADORES ,(vaga a1 automoveis, vaga c1 caminhoes, vaga m1 motos ').
 #Exemplo 
-vaga a1=carro1             vaga c1   vaga m1
-vaga a2                    vaga c2   vaga m2  
-vaga a3=carro3=carro4      vaga c3   vaga m3
-vaga a4                    vaga c4   vaga m4
-vaga a5=null               vaga c5   vaga m5 
-vaga a6                    vaga c6   vaga m6
+vaga a1=carro1             vaga c1 =caminhao1           vaga m1
+vaga a2                    vaga c2                      vaga m2  
+vaga a3=carro3=carro4      vaga c3                      vaga m3 =moto2
+vaga a4                    vaga c4                      vaga m4
+vaga a5=null               vaga c5 =null                vaga m5 
+vaga a6                    vaga c6                      vaga m6 =null
 ('No exemplo acima a vaga a1=carro1 recebeu o carro 1')
 ('Na vaga a3=carro3 ela nao pode receber dois carro na mesma vaga quando o carro4 chegar o carro 03 sera removido')
 (E na vaga 05=null ou seja null representanulo o vazio')
