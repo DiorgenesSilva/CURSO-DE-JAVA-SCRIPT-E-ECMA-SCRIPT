@@ -11,3 +11,10 @@ Apesar de conter Java no nome, a linguagem JavaScript é distinta da linguagem J
 Os scripts desenvolvidos em JavaScript são muito populares e amplamente integrados em páginas web devido à facilidade de interação com o Document Object Model (DOM) da página.
 
 Uma linguagem de script tem a funcionalidade de ser executada no interior de programas ou de outra linguagem de programação. Outras linguagens usadas como script são: ActionScript, PHC, Python, VBScript, entre outras.
+
+A linguagem de cliente ou client-side scripting? 
+A linguagem de cliente ou client-side scripting, é uma linguagem que é executada no lado cliente, ou seja, no computador do próprio usuário, e por isso é usada nas situações em que a linguagem server-side não tem alcance. Entre as linguagens client-side, há o JavaScript, que é a única que realmente roda no navegador do usuário.
+
+Servidor X Cliente 
+A ideia de servidor, entretanto, refere-se ao equipamento que presta serviços aos computadores conectados a ele através de uma rede. O conceito de cliente-servidor, refere-se, portanto, a um modelo de comunicação que vincula vários dispositivos informáticos através de uma rede. O cliente, nesse contexto, faz solicitações de serviços ao servidor, responsável por atender a esses requisitos.
+
