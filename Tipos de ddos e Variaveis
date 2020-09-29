@@ -281,7 +281,7 @@ const funciona exatamente da mesma maneira que let, exceto que você não pode a
 
 const diasNaSemana = 7;
 diasNaSemana = 8;
-Teste suas habilidades!
+ 
 Você chegou ao final deste artigo, mas consegue se lembrar das informações mais importantes? Você pode encontrar alguns testes adicionais para verificar se você reteve essas informações antes de prosseguir — veja Teste suas habilidades: variáveis.
  
 Por agora você deve saber razoavelmente sobre variáveis JavaScript e como criá-las. No próximo artigo Vamos focar nos números em mais detalhes, vendo como fazer matemática básica no JavaScript.
@@ -297,16 +297,41 @@ Identificadores
 O identificador é o nome pelo qual a variável é conhecida. O nome de uma variável deve iniciar sempre por uma letra, seguido de um conjunto de caracteres incluindo letras, números e alguns caracteres especiais, como é o caso do caracter ‘_’ que pode ser utilizado para separar palavras que constituem o nome da variável (ex.: num_aluno). Por convenção, um nome de uma variável não deve conter espaços, não deve iniciar por números e não deve conter determinados caracteres especiais, tais como * , = ? , / * ; : . , } [ ] {.
 
 Exemplos de identificadores válidos e inválidos:
+* Podem começar com uma (letra) ,( $ ),ou( _ ).
+* nao podem Começar com Numeros
+* É possivel usar letras e numeros 
+* È possivel usar letras e simbolos 
+* Nao podem conter espaços
+* Nao podem ser palavras reservadas 
 
-Válidos	Inválidos
-num	_num 
-valor3	3tigres 
-valor_x	oh! 
-a_3_xpto 	valor-x 
-numero 	número 
-maca 	maçã 
-num_inteiro 	inteiro 
-Tipos
+DICAS UTEIS 
+* Maiusculas e Minusculas fazem diferença
+* Tente escolher nomes coerentes ára a suas variaveis 
+* evite se tornoprogramador alfabeto ou contador 
+* Variaveis servem para adicionar dados .: 
+
+3 tipos Primitivos Primordiais 
+6,7,-10,-234,
+True/False,
+"Google",'JavaScript" e ´Maria´
+
+Mas existes outros tipos Primitivos
+Number : Ele tem dois valores internos muito importantes 
+:> Infinity :
+:> NaN : Not an Number 
+
+String :
+
+Boolean :
+
+Null:
+
+undefined:
+
+object :
+
+Function: 
+
 O tipo das variáveis relaciona-se com os valores que estas precisam de armazenar. Assim, estão disponíveis na maior parte das linguagens de programação os seguintes tipos:
 
 Numéricos: inteiro e real
@@ -314,34 +339,5 @@ Alfanuméricos: caracter e string (cadeia de caracteres)
 Valores lógicos: booleano
 Tipos compostos: vector (array) e enumeração 
 
-Os algoritmos têm normalmente uma parte declarativa das variáveis em que, para cada uma, se define o identificador e o tipo. Por exemplo:
-
-ALGORITMO exemplo
-VARIÁVEIS
-    num_alunos: inteiro
-    temperatura: real
-    chove: booleano
-    letra: caracter
-...
-
-Constantes
-Uma constante é uma entidade utilizada para guardar um valor que não se altera ao longo da execução de um algoritmo.
-
-Ao contrário do que acontece com as variáveis, não é necessário definir o seu tipo explicitamente. Ele é definido de modo implícito pelo valor da constante, que deve ser atribuído aquando da sua declaração.
-
-É uma boa prática de programação utilizar minúsculas para os identificadores das variáveis e maiúsculas para os identificadores das constantes.
-
-Exemplo:
-
-ALGORITMO area_circulo
-CONSTANTES
-    PI <-- 3.141592654
-
-VARIÁVEIS
-    raio, area: real
-
-INÍCIO
-    LER(raio)
-    area <-- PI * raio * raio
-    ESCREVER(area)
-FIM
+ 
+ 
