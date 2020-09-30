@@ -1,29 +1,5 @@
-Manipulando Dados 
-
-<!DOCTYPE html>  
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Bravvers Swing Brasil </title> 
-    <style>
-        /* Area reservada para o estilo 
-        ou o CSS do site */
-        body  {
-          background-color: rgb(150, 40, 122);
-          color: white;
-          font: normal 25pt Arial ;
-        }
-        h1 {
-            color: rgb(239, 243, 12);
-        }
-    </style>
-</head>
-<body> 
-    <h1>Manipulando dados </h1> 
-    <p>Tratamento de dados </p>
-    <script>  
-        //area de interaçao do site ou JS
+     Manipulando dados 
+     Tratamento de dados  
            
       var n1 = Number.parseInt( window.prompt("Digite  um numero :"))  
       var n2 = Number.parseInt( window.prompt(" Digite outro numero :"))
@@ -31,10 +7,9 @@ Manipulando Dados
       window.alert("A soma dos valores é " + soma) //concatenação 
       // + = (number + number ) para adição 
       // + = ( string + string ) para concatenação 
-    </script>
+      
+       Para convertes tipos  
      
-     <h2> Para convertes tipos </h2>
-     <h3>
      Number.parseIntNumber :> Ira converter um valor para inteiro 
      NUmber.ParseFloat :> Ira parcer ou cinverter para numero real ou ponto flutuante 
      ParseInt
@@ -61,7 +36,5 @@ Manipulando Dados
      var soma = n1 + n2 
      // Novo metodo para declarar Number Inteiro no Ecma padronizado 
      <!--Convertendo para inteiro modo ecmascript -->
-     </h3>
-</body>
-</html>
- 
+
+     
