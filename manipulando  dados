@@ -73,3 +73,26 @@ Manipulando Dados
  
 </body>
 </html>
+
+
+==================================================================
+
+   <script>
+         var nome = window.prompt("Qual o seu nome:?<br/>")
+         document.write( " Ola,"+nome+" ! o  seu nome tem "+nome.length+" letras <be/> " ) 
+         document.write(`Ola, ${nome} ! o seu nome tem ${nome.length} de letras  <br/>`)
+         document.write("O seu nome todo em maisculas ficaria ,"+nome.toUpperCase()) 
+         document.write(`O seu nome em maiusculas ficara, ${nome.toUpperCase()}<br/> `)
+         document.write("O seu nome em minusculas é ,"+ nome.toLowerCase())  
+         document.write(`O seu nomeeminmsculas é ,${nome.toLowerCase()}<br/>`) 
+   </Script>
+
+   =========================================================================
+   > n1.tofixed(2) 
+Uncaught TypeError: n1.tofixed is not a function
+> n1.toFixed(2)
+'1545.50'
+> n1.toFixed(2).replace('.',',')
+'1545,50'
+>
+==========================================================================

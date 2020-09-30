@@ -1,36 +1,24 @@
-Manipulando Dados 
-
-<!DOCTYPE html>  
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Bravvers Swing Brasil </title> 
-    <style>
-        /* Area reservada para o estilo 
-        ou o CSS do site */
-        body  {
-          background-color: rgb(150, 40, 122);
-          color: white;
-          font: normal 25pt Arial ;
-        }
-        h1 {
-            color: rgb(239, 243, 12);
-        }
-    </style>
+    <title>Exe 004 Curso de JavaScript </title>
+     <style>
+         body { 
+      font: Normal 20pt Arial;
+         }  
+     </style>
 </head>
-<body> 
-    <h1> Bravvers Swing Brasil </h1> 
-    <p>Aonde tudo é permitido e Nada é Obrigatório </p>
-    <script>
-        //area de interaçao do site ou JS
-         
-         
-        var nome = window.prompt("Deixe o seu email para analisar a sua conta Gratuita por 1 Ano")
-        window.alert("Seja bem vindo ao Site da Bravvers SWing , " + nome)  
-        //sinal de mais serve como concatenação 
-
-    </script>
- 
+<body>
+   <script>
+         var nome = window.prompt("Qual o seu nome:?<br/>")
+         document.write( " Ola,"+nome+" ! o  seu nome tem "+nome.length+" letras <be/> " ) 
+         document.write(`Ola, ${nome} ! o seu nome tem ${nome.length} de letras  <br/>`)
+         document.write("O seu nome todo em maisculas ficaria ,"+nome.toUpperCase()) 
+         document.write(`O seu nome em maiusculas ficara, ${nome.toUpperCase()}<br/> `)
+         document.write("O seu nome em minusculas é ,"+ nome.toLowerCase())  
+         document.write(`O seu nomeeminmsculas é ,${nome.toLowerCase()}<br/>`) 
+   </Script>
 </body>
-</html>
+</html> 
